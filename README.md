@@ -1,6 +1,6 @@
 # Consolaria Mobile
 
-Unofficial port of the popular Consolaria mod from TModLoader to TL Pro. Support the original creators!
+<img width="462" height="264" alt="17765689963097263183287406025154" src="https://github.com/user-attachments/assets/340a0129-c63d-44ca-bf54-3a2d381fcf0d"/>
 
 > This mod is free, you don't have to pay for it. However, it only works with the **TL Pro** app, which is a paid app that can be downloaded directly from Google Play.
 
