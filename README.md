@@ -2,7 +2,9 @@
 
 <img width="462" height="264" alt="17765689963097263183287406025154" src="https://github.com/user-attachments/assets/340a0129-c63d-44ca-bf54-3a2d381fcf0d"/>
 
-> This mod is free, you don't have to pay for it. However, it only works with the **TL Pro** app, which is a paid app that can be downloaded directly from Google Play.
+---
+
+This mod is free, you don't have to pay for it. However, it only works with the **TL Pro** app, which is a paid app that can be downloaded directly from Google Play.
 
 # Info
 Tons of exclusive mobile & old-gen console features were removed with the release of Terraria 1.3. Consolaria brings this unique content back, reworked and rebalanced for modern Terraria.
@@ -26,11 +28,15 @@ This includes:
 **Mobile Port:**
 - [GST378](https://youtube.com/@gst_378?si=DeMVrFWQ6JXtzPZV) - creator of this port
 
+---
+
 This mobile port is an independent adaptation and is released under **All Rights Reserved**.
 
 All code and mobile-specific systems in this port were implemented independently.
 
 The original **Consolaria** mod is licensed under the MIT License, which permits redistribution and adaptation. Proper credit to the original project and its authors is maintained.
+
+---
 
 # Links
 📌 [Original Page](https://github.com/has2r/Consolaria-2.0)
