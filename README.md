@@ -34,9 +34,7 @@ This includes:
 - RAM: 8 GB
 - GPU: Adreno 640+ / Mali-G76 or better
 
----
-
-Weaker devices may still be able to run the game, but with significantly reduced performance.
+> Weaker devices may still be able to run the game, but with significantly reduced performance.
 
 ---
 
