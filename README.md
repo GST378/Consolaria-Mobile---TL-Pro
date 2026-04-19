@@ -1,6 +1,8 @@
 # Consolaria Mobile
 
-Unofficial port of the popular Consolaria mod from TModLoader for TL Pro. Support the original creators!
+Unofficial port of the popular Consolaria mod from TModLoader to TL Pro. Support the original creators!
+
+> This mod is free, you don't have to pay for it. However, it only works with the **TL Pro** app, which is a paid app that can be downloaded directly from Google Play.
 
 # Info
 Tons of exclusive mobile & old-gen console features were removed with the release of Terraria 1.3. Consolaria brings this unique content back, reworked and rebalanced for modern Terraria.
@@ -28,10 +30,11 @@ This mobile port is an independent adaptation and is released under **All Rights
 
 All code and mobile-specific systems in this port were implemented independently.
 
-The original **Consolaria** mod is licensed under the __MIT License__, which permits redistribution and adaptation. Proper credit to the original project and its authors is maintained.
+The original **Consolaria** mod is licensed under the MIT License, which permits redistribution and adaptation. Proper credit to the original project and its authors is maintained.
 
 # Links
 📌 [Original Page](https://github.com/has2r/Consolaria-2.0)
 🌐 [Discord](https://discord.gg/4gqJzV3JSN)
 📖 [Consolaria Wiki](https://terrariamods.wiki.gg/wiki/Consolaria)
 🌳 [Forum post](https://forums.terraria.org/index.php?threads/consolaria.62570)
+📲 [Download TL Pro](https://play.google.com/store/apps/details?id=com.pixelcurves.terlauncher&pcampaignid=web_share)
