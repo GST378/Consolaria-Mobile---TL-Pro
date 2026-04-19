@@ -18,6 +18,7 @@ This includes:
 - **Exclusive vanity items** - including the Horned God set, George's set & many others
 - **A variety of ported pets**, complete with extra animations
 - **Mc MoneyPants** NPC
+- **Holy Hand Grenade!**
 
 # Credits
 **Developers:**
