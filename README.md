@@ -20,6 +20,26 @@ This includes:
 - **Mc MoneyPants** NPC
 - **Holy Hand Grenade!**
 
+## System Requirements
+
+### Minimum
+- OS: Android 9.0+
+- CPU: Mid-range processor (Snapdragon 660 / equivalent)
+- RAM: 4 GB
+- GPU: Adreno 512 / Mali-G71 or better
+
+### Recommended
+- OS: Android 12+
+- CPU: High-end processor (Snapdragon 855+ / equivalent)
+- RAM: 8 GB
+- GPU: Adreno 640+ / Mali-G76 or better
+
+---
+
+Weaker devices may still be able to run the game, but with significantly reduced performance.
+
+---
+
 # Credits
 **Developers:**
 - [has2r](https://steamcommunity.com/id/has2r_) - programmer, founder
