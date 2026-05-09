@@ -18,9 +18,11 @@ Here you can follow the latest versions of this port and see what's new.
 - Loading error on some devices
 - Sparkly Wings without effects
 - Warlock armor bonus
+- Ostara Gift now works with all items
 - Shadowbound Exoskeleton not working
 - Accessories active in vanity slots
 - Heart Arrow piercing through tiles
+- Vampire Miner can now drop Vial of Blood
 - Servant of Ocram dropping random items upon death
 - Mc Moneypants never spawning after leaving
 - Reduced the amount of some dusts
