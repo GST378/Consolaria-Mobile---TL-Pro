@@ -55,7 +55,7 @@ In TL Pro, go to `Other > Import > Packs` and select the mod file with the `.tl`
 **Mobile Port:**
 - [GST378](https://youtube.com/@gst_378?si=DeMVrFWQ6JXtzPZV) - creator of this port
 
-Contributors:
+**Contributors:**
 - **KondiU** - countless code additions and parity changes
 - **DrunkenCat** - original boss AIs
 - **Synoxsis** - Lepus, Turkor & Ocram themes
