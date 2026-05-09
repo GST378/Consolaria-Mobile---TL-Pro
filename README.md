@@ -20,6 +20,14 @@ This includes:
 - **Mc MoneyPants** NPC
 - **Holy Hand Grenade!**
 
+## How to Download
+
+Go to the [Releases](https://github.com/GST378/Consolaria-Mobile---TL-Pro/tree/main/Releases) page, click on the file with the .tl extension, then on the 3 dots and then on "Download", import the file into TL Pro and enable the mod in the resource pack tab.
+
+In TL Pro, go to `Other > Import > Packs` and select the mod file with the `.tl` extension.
+
+> The **mod** is located in the resource pack tab, but that doesn't mean it is a resource pack itself.
+
 ## System Requirements
 
 ### Minimum
