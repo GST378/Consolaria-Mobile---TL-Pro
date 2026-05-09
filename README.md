@@ -47,6 +47,31 @@ This includes:
 **Mobile Port:**
 - [GST378](https://youtube.com/@gst_378?si=DeMVrFWQ6JXtzPZV) - creator of this port
 
+Contributors:
+- **KondiU** - countless code additions and parity changes
+- **DrunkenCat** - original boss AIs
+- **Synoxsis** - Lepus, Turkor & Ocram themes
+- **Jteoh** - Otherworldly boss themes
+- **Fyerow & Croul** - legacy Ocram theme
+- **EduaRRdo** - Thorium cross-mod content sprites and ideas
+- **StrikerRKT** - extracting files from Japanese versions of the game
+- **Sparcdoctor** - extensive testing and content suggestions
+- **CrezyDud** - Turkor multiplayer fixes
+- **OnesAndZer0s** - Jungle Sanctum worldgen
+- **CKnight** - Master mode Relic sprites
+- **Heretic** - sprites, animations and early wiki edits
+- **Bripe, Obesedog, Nokilos, MeuRan** - numerous sprites
+- **OrcaRequiem** - Orca animation rework
+- **minichibis** - Dragon Hornet sprite
+- **cleo.** - Mythical Wyvern kite sprite
+- **Lion8cake** - Zenith projectile & recipe patch for Tizona
+- **Gaerzi** - calendar code optimisation
+- **kittenchilly** - multiplayer boss scaling improvement
+- **Efromomr** - some Mc MoneyPants interaction quotes
+- **HenryChe, htoya23** - Russian localization
+- **Auraz** - Spanish localization
+- **KaffaZ** - Brazilian Portuguese localization
+
 ---
 
 This mobile port is an independent adaptation and is released under **All Rights Reserved**.
