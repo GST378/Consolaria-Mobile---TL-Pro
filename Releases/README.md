@@ -12,24 +12,28 @@ Here you can follow the latest versions of this port and see what's new.
 
 ---
 
-## v1.0.2
+## v1.0.3
+- Red Envelope can now drop Mythical vanity set
+- Fixed crash when entering the game on some devices (black screen)
+- Fixed a error in Underground Hallow when spawning NPC
+- Other minor fixes
 
-### Fixed
-- Loading error on some devices
-- Sparkly Wings without effects
-- Warlock armor bonus
+## v1.0.2
+- Fixed loading error on some devices
+- Fixed Sparkly Wings without effects
+- Fixed Warlock armor bonus
 - Ostara Gift now works with all items
-- Shadowbound Exoskeleton not working
-- Accessories active in vanity slots
-- Heart Arrow piercing through tiles
+- Fixed Shadowbound Exoskeleton not working
+- Fixed accessories active in vanity slots
+- Fixed Heart Arrow piercing through tiles
 - Vampire Miner can now drop Vial of Blood
-- Servant of Ocram dropping random items upon death
-- Mc Moneypants never spawning after leaving
+- Fixed Servant of Ocram dropping random items upon death
+- Fixed Mc Moneypants never spawning after leaving
 - Reduced the amount of some dusts
 - Removed trail from Ocram projectiles in quality settings below "High", their size was also reduced by half.
 - Other minor fixes
 
-### Known Problems
+**Known Problems**
 - The message `#NAME` may rarely appear in the chat, this shouldn't affect your gameplay.
 - Some devices are unable to access the game
 > Check if TL Pro and Terraria are on the latest version.
