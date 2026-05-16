@@ -12,6 +12,10 @@ Here you can follow the latest versions of this port and see what's new.
 
 ---
 
+## v1.0.4
+- Added Journey mode compatibility
+- Improved compatibility with other content mods
+
 ## v1.0.3
 - Red Envelope can now drop Mythical vanity set
 - Fixed crash when entering the game on some devices (black screen)
