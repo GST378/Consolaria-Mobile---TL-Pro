@@ -79,6 +79,7 @@ In TL Pro, go to `Other > Import > Packs` and select the mod file with the `.tl`
 - **HenryChe, htoya23** - Russian localization
 - **Auraz** - Spanish localization
 - **KaffaZ** - Brazilian Portuguese localization
+- **infinity_slime** - Chinese localization (mobile version)
 
 ---
 
