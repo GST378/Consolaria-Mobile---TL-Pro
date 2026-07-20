@@ -12,6 +12,9 @@ Here you can follow the latest versions of this port and see what's new.
 
 ---
 
+## v1.0.6
+- Mod loading time slightly reduced
+
 ## v1.0.5
 - Fixed crash when using the quick stacking function
 - Added Chinese translation, thanks infinity_slime
