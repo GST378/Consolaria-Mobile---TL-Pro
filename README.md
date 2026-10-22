@@ -83,9 +83,7 @@ In TL Pro, go to `Other > Import > Packs` and select the mod file with the `.tl`
 
 ---
 
-This mobile port is an independent adaptation and is released under **All Rights Reserved**.
-
-All code and mobile-specific systems in this port were implemented independently.
+This mobile port is an independent adaptation and is released under **MIT License**.
 
 The original **Consolaria** mod is licensed under the MIT License, which permits redistribution and adaptation. Proper credit to the original project and its authors is maintained.
 
